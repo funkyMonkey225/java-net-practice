@@ -10,3 +10,5 @@ namespace hwapp
         }
     }
 }
+
+// dotnet run
